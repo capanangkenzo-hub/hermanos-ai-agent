@@ -2,9 +2,7 @@
   "name": "hermanos-ai-agent",
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "scripts": { "start": "node server.js" },
   "dependencies": {
     "better-sqlite3": "^11.0.0",
     "cors": "^2.8.5",
